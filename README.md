@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Siya Sathaye
-ssathaye@ucsd.edu
+Siya Sathaye and Audrey Chung
